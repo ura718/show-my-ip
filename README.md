@@ -1,5 +1,4 @@
-# show-my-ip
-Show my ip and organization
+# Show my ip and organization
 
 Setup ~/.bashrc alias as
   ```
